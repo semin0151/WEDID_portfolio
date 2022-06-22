@@ -1,6 +1,6 @@
 # WEDID
 플레이스토어 링크  https://play.google.com/store/apps/details?id=com.wedid
-###### (앱 사업화 관계로 본 Repository는 private으로 변경했습니다.)
+###### (팀프로젝트로 본 Repository는 private으로 변경했습니다.)
 
 #### WEDID은 일정 관리 어플리케이션입니다.
 #### 일정을 저장하고 주간 캘린더, 월간 캘린더로 일정을 확인할 수 있습니다.
